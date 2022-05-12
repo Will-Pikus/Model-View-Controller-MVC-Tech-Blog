@@ -10,3 +10,5 @@ Need to fix comment routes, comments not posting
 ![Webpage Screenshot](/public/images/techblog.JPG)
 
 ### Site Link
+
+https://tech-blog-wp.herokuapp.com/
